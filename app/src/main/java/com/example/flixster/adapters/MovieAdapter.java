@@ -78,7 +78,6 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder>{
                     Intent i = new Intent(context, DetailActivity.class);
                     i.putExtra("movie", Parcels.wrap(movie));
                     context.startActivity(i);
-                    Toast.makeText(context, movie.getTitle(), Toast.LENGTH_SHORT).show();
                 }
             });
         }
