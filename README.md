@@ -12,7 +12,8 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 ### App Walkthough GIF
-<img src="https://imgur.com/W1wt2aP" width=250><br>
+https://imgur.com/W1wt2aP
+<img src=https://imgur.com/W1wt2aP width=250><br>
 
 ### Notes
 Adding library doesn't provide the same project structure as displayed in video tutorial, but it works all the same. 
