@@ -43,7 +43,7 @@ Adding library doesn't provide the same project structure as displayed in video 
 ### App Walkthough GIF
 https://imgur.com/VYdKoGb
 
-<img src="https://imgur.com/VYdKoG.gif" width=250><br>
+<img src=https://imgur.com/VYdKoG.gif width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
